@@ -1,0 +1,12 @@
+name: eye-genes
+title: eye-genes
+username:
+account: nz-stefan
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 207947
+bundleId: 957172
+url: https://nz-stefan.shinyapps.io/eye-genes/
+when: 1503917941.91086
+asMultiple: FALSE
+asStatic: FALSE
