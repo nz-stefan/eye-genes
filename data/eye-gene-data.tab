@@ -1,0 +1,401 @@
+col	Gene Symbol	Gene Size	Phenotypes	Inheritance Pattern	Chromosome
+1	KCNJ13	1083/285	Bardet-Biedl syndrome	Autosomal dominant	2
+2	PRDM13	2124	Chorioretinal atrophy or degeneration	Autosomal dominant	6
+3	RGR	888/762	Chorioretinal atrophy or degeneration	Autosomal dominant	10
+4	TEAD1	1281	Chorioretinal atrophy or degeneration	Autosomal dominant	11
+5	AIPL1	1155/966/975/1119/1089/1083/789	Cone or cone-rod dystrophy	Autosomal dominant	17
+6	CRX	900	Cone or cone-rod dystrophy	Autosomal dominant	19
+7	GUCA1A	606	Cone or cone-rod dystrophy	Autosomal dominant	6
+8	GUCY2D	3312	Cone or cone-rod dystrophy	Autosomal dominant	17
+9	PITPNM3	2925/2817	Cone or cone-rod dystrophy	Autosomal dominant	17
+10	PROM1	2598/2571/2505/2529	Cone or cone-rod dystrophy	Autosomal dominant	4
+11	PRPH2	1041	Cone or cone-rod dystrophy	Autosomal dominant	6
+12	RIMS1	5079/3039/2454/2283/2481/660	Cone or cone-rod dystrophy	Autosomal dominant	6
+13	SEMA4A	2286/1890	Cone or cone-rod dystrophy	Autosomal dominant	1
+14	UNC119	723/663	Cone or cone-rod dystrophy	Autosomal dominant	17
+15	CORD4*		Cone or cone-rod dystrophy	Autosomal dominant	
+16	CORD17*		Cone or cone-rod dystrophy	Autosomal dominant	
+17	RCD1*		Cone or cone-rod dystrophy	Autosomal dominant	
+18	GNAT1	1053	Congenital stationary night blindness	Autosomal dominant	3
+19	PDE6B	2565/2562/1728	Congenital stationary night blindness	Autosomal dominant	4
+20	RHO	1047	Congenital stationary night blindness	Autosomal dominant	3
+21	WFS1	2673	Deafness alone or syndromic	Autosomal dominant	4
+22	AIPL1	1155/966/975/1119/1089/1083/789	Leber congenital amaurosis	Autosomal dominant	17
+23	CRB1	4221/3885/4149/2613	Leber congenital amaurosis	Autosomal dominant	1
+24	CRX	900	Leber congenital amaurosis	Autosomal dominant	19
+25	GUCY2D	3312	Leber congenital amaurosis	Autosomal dominant	17
+26	IMPDH1	1800/1692/1770/1701/1530/1470	Leber congenital amaurosis	Autosomal dominant	7
+27	KCNJ13	1083/285	Leber congenital amaurosis	Autosomal dominant	2
+28	OTX2	894/870	Leber congenital amaurosis	Autosomal dominant	14
+29	PRPH2	1041	Leber congenital amaurosis	Autosomal dominant	6
+30	RDH12	951	Leber congenital amaurosis	Autosomal dominant	14
+31	RPE65	1602	Leber congenital amaurosis	Autosomal dominant	1
+32	BEST1	1758/1815	Macular degeneration	Autosomal dominant	11
+33	C1QTNF5	732	Macular degeneration	Autosomal dominant	11
+34	CTNNA1	2526/1611	Macular degeneration	Autosomal dominant	5
+35	EFEMP1	1482	Macular degeneration	Autosomal dominant	2
+36	ELOVL4	945	Macular degeneration	Autosomal dominant	6
+37	FSCN2	1479/1551	Macular degeneration	Autosomal dominant	17
+38	GUCA1B	603	Macular degeneration	Autosomal dominant	6
+39	HMCN1	16908	Macular degeneration	Autosomal dominant	1
+40	IMPG1	2394/2160	Macular degeneration	Autosomal dominant	6
+41	OTX2	894/870	Macular degeneration	Autosomal dominant	14
+42	PRDM13	2124	Macular degeneration	Autosomal dominant	6
+43	PROM1	2598/2571/2505/2529	Macular degeneration	Autosomal dominant	4
+44	PRPH2	1041	Macular degeneration	Autosomal dominant	6
+45	RP1L1	7203	Macular degeneration	Autosomal dominant	8
+46	TIMP3	636	Macular degeneration	Autosomal dominant	22
+47	VCAN	10191/1968/7230/4929	Ocular-retinal developmental disease	Autosomal dominant	5
+48	MFN2	2274	Optic atrophy	Autosomal dominant	1
+49	NR2F1	1272	Optic atrophy	Autosomal dominant	5
+50	OPA1	2883/2994	Optic atrophy	Autosomal dominant	3
+51	ARL3	549	Retinitis pigmentosa	Autosomal dominant	10
+52	BEST1	1758/1815	Retinitis pigmentosa	Autosomal dominant	11
+53	CA4	939	Retinitis pigmentosa	Autosomal dominant	17
+54	CRB1	4221/3885/4149/2613	Retinitis pigmentosa	Autosomal dominant	1
+55	CRX	900	Retinitis pigmentosa	Autosomal dominant	19
+56	FSCN2	1479/1551	Retinitis pigmentosa	Autosomal dominant	17
+57	GUCA1B	603	Retinitis pigmentosa	Autosomal dominant	6
+58	HK1	2754/2751/2766/2718	Retinitis pigmentosa	Autosomal dominant	10
+59	IMPDH1	1800/1692/1770/1701/1530/1470	Retinitis pigmentosa	Autosomal dominant	7
+60	KLHL7	1761/1617/501	Retinitis pigmentosa	Autosomal dominant	7
+61	NR2E3	1104/1233	Retinitis pigmentosa	Autosomal dominant	15
+62	NRL	714	Retinitis pigmentosa	Autosomal dominant	14
+63	PDE6B	2565/2562/1728	Retinitis pigmentosa	Autosomal dominant	4
+64	PROM1	2598/2571/2505/2529	Retinitis pigmentosa	Autosomal dominant	4
+65	PRPF3	2052	Retinitis pigmentosa	Autosomal dominant	1
+66	PRPF31	1500	Retinitis pigmentosa	Autosomal dominant	19
+67	PRPF4	1569/1566	Retinitis pigmentosa	Autosomal dominant	9
+68	PRPF6	2826	Retinitis pigmentosa	Autosomal dominant	20
+69	PRPF8	7008	Retinitis pigmentosa	Autosomal dominant	17
+70	PRPH2	1041	Retinitis pigmentosa	Autosomal dominant	6
+71	RDH12	951	Retinitis pigmentosa	Autosomal dominant	14
+72	RGR	888/762	Retinitis pigmentosa	Autosomal dominant	10
+73	RHO	1047	Retinitis pigmentosa	Autosomal dominant	3
+74	ROM1	1056	Retinitis pigmentosa	Autosomal dominant	11
+75	RP1	6471	Retinitis pigmentosa	Autosomal dominant	8
+76	RP1L1	7203	Retinitis pigmentosa	Autosomal dominant	8
+77	RP9	666	Retinitis pigmentosa	Autosomal dominant	7
+78	RPE65	1602	Retinitis pigmentosa	Autosomal dominant	1
+79	SEMA4A	2286/1890	Retinitis pigmentosa	Autosomal dominant	1
+80	SNRNP200	6411	Retinitis pigmentosa	Autosomal dominant	2
+81	SPP2	636	Retinitis pigmentosa	Autosomal dominant	2
+82	TOPORS	3138/2943	Retinitis pigmentosa	Autosomal dominant	9
+83	ZNF408	2163	Retinitis pigmentosa	Autosomal dominant	11
+84	ABCC6	4512/300	Syndromic/systemic diseases with retinopathy	Autosomal dominant	16
+85	ATXN7	2679/2838/2244	Syndromic/systemic diseases with retinopathy	Autosomal dominant	3
+86	COL11A1	5421/5073/5304	Syndromic/systemic diseases with retinopathy	Autosomal dominant	1
+87	COL2A1	4464/4257	Syndromic/systemic diseases with retinopathy	Autosomal dominant	12
+88	ELOVL4	945	Syndromic/systemic diseases with retinopathy	Autosomal dominant	6
+89	JAG1	3657	Syndromic/systemic diseases with retinopathy	Autosomal dominant	20
+90	KCNJ13	1083/285	Syndromic/systemic diseases with retinopathy	Autosomal dominant	2
+91	KIF11	3171	Syndromic/systemic diseases with retinopathy	Autosomal dominant	10
+92	LRP5	4848	Syndromic/systemic diseases with retinopathy	Autosomal dominant	11
+93	MFN2	2274	Syndromic/systemic diseases with retinopathy	Autosomal dominant	1
+94	OPA3	543/540	Syndromic/systemic diseases with retinopathy	Autosomal dominant	19
+95	PAX2	1185/1191	Syndromic/systemic diseases with retinopathy	Autosomal dominant	10
+96	TREX1	1110/945/915	Syndromic/systemic diseases with retinopathy	Autosomal dominant	3
+97	VCAN	10191/1968/7230/4929	Syndromic/systemic diseases with retinopathy	Autosomal dominant	5
+98	WFS1	2673	Syndromic/systemic diseases with retinopathy	Autosomal dominant	4
+99	BEST1	1758/1815	Other retinopathy	Autosomal dominant	11
+100	CAPN5	1923	Other retinopathy	Autosomal dominant	11
+101	CRB1	4221/3885/4149/2613	Other retinopathy	Autosomal dominant	1
+102	FZD4	1614	Other retinopathy	Autosomal dominant	11
+103	ITM2B	801	Other retinopathy	Autosomal dominant	13
+104	LRP5	4848	Other retinopathy	Autosomal dominant	11
+105	MAPKAPK3	1149	Other retinopathy	Autosomal dominant	3
+106	MIR204	110	Other retinopathy	Autosomal dominant	9
+107	NR2E3	1104/1233	Other retinopathy	Autosomal dominant	15
+108	OPN1SW	1047	Other retinopathy	Autosomal dominant	7
+109	PROM1	2598/2571/2505/2529	Other retinopathy	Autosomal dominant	4
+110	RB1	2787	Other retinopathy	Autosomal dominant	13
+111	TSPAN12	918	Other retinopathy	Autosomal dominant	7
+112	ZNF408	2163	Other retinopathy	Autosomal dominant	11
+113	ADIPOR1	1128	Bardet-Biedl syndrome	Autosomal recessive	1
+114	ARL6	561	Bardet-Biedl syndrome	Autosomal recessive	3
+115	BBIP1	312/279/279/204/213	Bardet-Biedl syndrome	Autosomal recessive	10
+116	BBS1	1782	Bardet-Biedl syndrome	Autosomal recessive	11
+117	BBS2	2166	Bardet-Biedl syndrome	Autosomal recessive	16
+118	BBS4	1560/1044	Bardet-Biedl syndrome	Autosomal recessive	15
+119	BBS5	1026	Bardet-Biedl syndrome	Autosomal recessive	2
+120	BBS7	2148/2019	Bardet-Biedl syndrome	Autosomal recessive	4
+121	BBS9	2544/2664/2559/2649	Bardet-Biedl syndrome	Autosomal recessive	7
+122	BBS10	2172	Bardet-Biedl syndrome	Autosomal recessive	12
+123	BBS12	2133	Bardet-Biedl syndrome	Autosomal recessive	4
+124	C8orf37	624	Bardet-Biedl syndrome	Autosomal recessive	8
+125	CEP290	7440	Bardet-Biedl syndrome	Autosomal recessive	12
+126	IFT27	561/558	Bardet-Biedl syndrome	Autosomal recessive	22
+127	IFT172	5250	Bardet-Biedl syndrome	Autosomal recessive	2
+128	INPP5E	1935	Bardet-Biedl syndrome	Autosomal recessive	9
+129	KCNJ13	1083/285	Bardet-Biedl syndrome	Autosomal recessive	2
+130	LZTFL1	900/849/771	Bardet-Biedl syndrome	Autosomal recessive	3
+131	MKKS	1713	Bardet-Biedl syndrome	Autosomal recessive	20
+132	MKS1	1680/1650	Bardet-Biedl syndrome	Autosomal recessive	17
+133	NPHP1	2202/2199/2034/1845	Bardet-Biedl syndrome	Autosomal recessive	2
+134	SDCCAG8	2142	Bardet-Biedl syndrome	Autosomal recessive	1
+135	TRIM32	1962	Bardet-Biedl syndrome	Autosomal recessive	9
+136	TTC8	1548/1518/1428/1596/954	Bardet-Biedl syndrome	Autosomal recessive	14
+137	RGR	888/762	Chorioretinal atrophy or degeneration	Autosomal recessive	10
+138	ABCA4	6822	Cone or cone-rod dystrophy	Autosomal recessive	1
+139	ADAM9	2460	Cone or cone-rod dystrophy	Autosomal recessive	8
+140	AIPL1	1155/966/975/1119/1089/1083/789	Cone or cone-rod dystrophy	Autosomal recessive	17
+141	ATF6	2013	Cone or cone-rod dystrophy	Autosomal recessive	1
+142	C21orf2	771/768/1128	Cone or cone-rod dystrophy	Autosomal recessive	21
+143	C8orf37	624	Cone or cone-rod dystrophy	Autosomal recessive	8
+144	CACNA2D4	3414	Cone or cone-rod dystrophy	Autosomal recessive	12
+145	CDHR1	2580/2238	Cone or cone-rod dystrophy	Autosomal recessive	10
+146	CERKL	1599/1677/1260/1392/1545	Cone or cone-rod dystrophy	Autosomal recessive	2
+147	CNGA3	2085/2031	Cone or cone-rod dystrophy	Autosomal recessive	2
+148	CNGB3	2430	Cone or cone-rod dystrophy	Autosomal recessive	8
+149	CNNM4	2328	Cone or cone-rod dystrophy	Autosomal recessive	2
+150	CRX	900	Cone or cone-rod dystrophy	Autosomal recessive	19
+151	GNAT2	1065	Cone or cone-rod dystrophy	Autosomal recessive	1
+152	GUCY2D	3312	Cone or cone-rod dystrophy	Autosomal recessive	17
+153	KCNV2	1638	Cone or cone-rod dystrophy	Autosomal recessive	9
+154	PDE6C	2577	Cone or cone-rod dystrophy	Autosomal recessive	10
+155	PDE6H	252	Cone or cone-rod dystrophy	Autosomal recessive	12
+156	POC1B	1437/1311	Cone or cone-rod dystrophy	Autosomal recessive	12
+157	PROM1	2598/2571/2505/2529	Cone or cone-rod dystrophy	Autosomal recessive	4
+158	PRPH2	1041	Cone or cone-rod dystrophy	Autosomal recessive	6
+159	RAB28	666/663/615	Cone or cone-rod dystrophy	Autosomal recessive	4
+160	RAX2	555	Cone or cone-rod dystrophy	Autosomal recessive	19
+161	RDH5	957	Cone or cone-rod dystrophy	Autosomal recessive	12
+162	RPGRIP1	3861	Cone or cone-rod dystrophy	Autosomal recessive	14
+163	TTLL5	3846	Cone or cone-rod dystrophy	Autosomal recessive	14
+164	CORD8*		Cone or cone-rod dystrophy	Autosomal recessive	
+165	CABP4	828/513	Congenital stationary night blindness	Autosomal recessive	11
+166	GNAT1	1053	Congenital stationary night blindness	Autosomal recessive	3
+167	GNB3	1023/1020	Congenital stationary night blindness	Autosomal recessive	12
+168	GPR179	7104	Congenital stationary night blindness	Autosomal recessive	17
+169	GRK1	2100	Congenital stationary night blindness	Autosomal recessive	13
+170	GRM6	2634	Congenital stationary night blindness	Autosomal recessive	5
+171	LRIT3	2040	Congenital stationary night blindness	Autosomal recessive	4
+172	PDE6B	2565/2562/1728	Congenital stationary night blindness	Autosomal recessive	4
+173	RDH5	957	Congenital stationary night blindness	Autosomal recessive	12
+174	RHO	1047	Congenital stationary night blindness	Autosomal recessive	3
+175	SAG	1218	Congenital stationary night blindness	Autosomal recessive	2
+176	SLC24A1	3300/3210/3246/3039	Congenital stationary night blindness	Autosomal recessive	15
+177	TRPM1	4929/4812/4878/411	Congenital stationary night blindness	Autosomal recessive	15
+178	CDH23	3345/3240	Deafness alone or syndromic	Autosomal recessive	10
+179	CIB2	564/435/417	Deafness alone or syndromic	Autosomal recessive	15
+180	DFNB31	2724/1575	Deafness alone or syndromic	Autosomal recessive	9
+181	MYO7A	6648/6528/3537	Deafness alone or syndromic	Autosomal recessive	11
+182	PCDH15	5889/5874/5868/5661/5859/5779/5373/4620/5049/5034	Deafness alone or syndromic	Autosomal recessive	10
+183	PDZD7	3102/1554	Deafness alone or syndromic	Autosomal recessive	10
+184	USH1C	1659/1602/2700	Deafness alone or syndromic	Autosomal recessive	11
+185	WFS1	2673	Deafness alone or syndromic	Autosomal recessive	4
+186	AIPL1	1155/966/975/1119/1089/1083/789	Leber congenital amaurosis	Autosomal recessive	17
+187	CABP4	828/513	Leber congenital amaurosis	Autosomal recessive	11
+188	CEP290	7440	Leber congenital amaurosis	Autosomal recessive	12
+189	CLUAP1	1242/744	Leber congenital amaurosis	Autosomal recessive	16
+190	CRB1	4221/3885/4149/2613	Leber congenital amaurosis	Autosomal recessive	1
+191	CRX	900	Leber congenital amaurosis	Autosomal recessive	19
+192	DTHD1	2346	Leber congenital amaurosis	Autosomal recessive	4
+193	GDF6	1368	Leber congenital amaurosis	Autosomal recessive	8
+194	GUCY2D	3312	Leber congenital amaurosis	Autosomal recessive	17
+195	IFT140	4389	Leber congenital amaurosis	Autosomal recessive	16
+196	IQCB1	1797/1398	Leber congenital amaurosis	Autosomal recessive	3
+197	KCNJ13	1083/285	Leber congenital amaurosis	Autosomal recessive	2
+198	LCA5	2094	Leber congenital amaurosis	Autosomal recessive	6
+199	LRAT	693	Leber congenital amaurosis	Autosomal recessive	4
+200	NMNAT1	840/483	Leber congenital amaurosis	Autosomal recessive	1
+201	PRPH2	1041	Leber congenital amaurosis	Autosomal recessive	6
+202	RD3	588	Leber congenital amaurosis	Autosomal recessive	1
+203	RDH12	951	Leber congenital amaurosis	Autosomal recessive	14
+204	RPE65	1602	Leber congenital amaurosis	Autosomal recessive	1
+205	RPGRIP1	3861	Leber congenital amaurosis	Autosomal recessive	14
+206	SPATA7	1800/1704	Leber congenital amaurosis	Autosomal recessive	14
+207	TULP1	1629/1470	Leber congenital amaurosis	Autosomal recessive	6
+208	ABCA4	6822	Macular degeneration	Autosomal recessive	1
+209	BEST1	1758/1815	Macular degeneration	Autosomal recessive	11
+210	CFH	3696/1350	Macular degeneration	Autosomal recessive	1
+211	DRAM2	801	Macular degeneration	Autosomal recessive	1
+212	ELOVL4	945	Macular degeneration	Autosomal recessive	6
+213	IMPG1	2394/2160	Macular degeneration	Autosomal recessive	6
+214	MFSD8	1557	Macular degeneration	Autosomal recessive	4
+215	PROM1	2598/2571/2505/2529	Macular degeneration	Autosomal recessive	4
+216	PRPH2	1041	Macular degeneration	Autosomal recessive	6
+217	RP1L1	7203	Macular degeneration	Autosomal recessive	8
+218	RTN4IP1	1191	Optic atrophy	Autosomal recessive	6
+219	SLC25A46	1257/1014	Optic atrophy	Autosomal recessive	5
+220	TMEM126A	588/378	Optic atrophy	Autosomal recessive	11
+221	ABCA4	6822	Retinitis pigmentosa	Autosomal recessive	1
+222	AGBL5	2661/2154	Retinitis pigmentosa	Autosomal recessive	2
+223	ARL2BP	492	Retinitis pigmentosa	Autosomal recessive	16
+224	ARL6	561	Retinitis pigmentosa	Autosomal recessive	3
+225	BBS1	1782	Retinitis pigmentosa	Autosomal recessive	11
+226	BBS2	2166	Retinitis pigmentosa	Autosomal recessive	16
+227	BEST1	1758/1815	Retinitis pigmentosa	Autosomal recessive	11
+228	C2orf71	3867	Retinitis pigmentosa	Autosomal recessive	2
+229	C8orf37	624	Retinitis pigmentosa	Autosomal recessive	8
+230	CERKL	1599/1677/1260/1392/1545	Retinitis pigmentosa	Autosomal recessive	2
+231	CLRN1	699/363/738	Retinitis pigmentosa	Autosomal recessive	3
+232	CNGA1	2280/2073	Retinitis pigmentosa	Autosomal recessive	4
+233	CNGB1	3756/900/3738	Retinitis pigmentosa	Autosomal recessive	16
+234	CRB1	4221/3885/4149/2613	Retinitis pigmentosa	Autosomal recessive	1
+235	CRX	900	Retinitis pigmentosa	Autosomal recessive	19
+236	CYP4V2	1578	Retinitis pigmentosa	Autosomal recessive	4
+237	DHDDS	1002/1005/900/885	Retinitis pigmentosa	Autosomal recessive	1
+238	DHX38	3684	Retinitis pigmentosa	Autosomal recessive	16
+239	EMC1	2982/2979/2916	Retinitis pigmentosa	Autosomal recessive	1
+240	EYS	9435/1860/1785/9498	Retinitis pigmentosa	Autosomal recessive	6
+241	FAM161A	2151/1983	Retinitis pigmentosa	Autosomal recessive	2
+242	GPR125	3966	Retinitis pigmentosa	Autosomal recessive	4
+243	HGSNAT	1908	Retinitis pigmentosa	Autosomal recessive	8
+244	IDH3B	1158/1152/1131	Retinitis pigmentosa	Autosomal recessive	20
+245	IFT140	4389	Retinitis pigmentosa	Autosomal recessive	16
+246	IFT172	5250	Retinitis pigmentosa	Autosomal recessive	2
+247	IMPG2	3726	Retinitis pigmentosa	Autosomal recessive	3
+248	KIAA1549	5805/5853	Retinitis pigmentosa	Autosomal recessive	7
+249	KIZ	2022/1713/1623/1875	Retinitis pigmentosa	Autosomal recessive	20
+250	LRAT	693	Retinitis pigmentosa	Autosomal recessive	4
+251	MAK	1872/1752/1947	Retinitis pigmentosa	Autosomal recessive	6
+252	MERTK	3000	Retinitis pigmentosa	Autosomal recessive	2
+253	MVK	1191/1035	Retinitis pigmentosa	Autosomal recessive	12
+254	NEK2	1338/1155/1167	Retinitis pigmentosa	Autosomal recessive	1
+255	NEUROD1	1071	Retinitis pigmentosa	Autosomal recessive	2
+256	NR2E3	1104/1233	Retinitis pigmentosa	Autosomal recessive	15
+257	NRL	714	Retinitis pigmentosa	Autosomal recessive	14
+258	PDE6A	2583	Retinitis pigmentosa	Autosomal recessive	5
+259	PDE6B	2565/2562/1728	Retinitis pigmentosa	Autosomal recessive	4
+260	PDE6G	264	Retinitis pigmentosa	Autosomal recessive	17
+261	POMGNT1	1983/2247	Retinitis pigmentosa	Autosomal recessive	1
+262	PRCD	165	Retinitis pigmentosa	Autosomal recessive	17
+263	PROM1	2598/2571/2505/2529	Retinitis pigmentosa	Autosomal recessive	4
+264	PRPH2	1041	Retinitis pigmentosa	Autosomal recessive	6
+265	RBP3	3744	Retinitis pigmentosa	Autosomal recessive	10
+266	RDH12	951	Retinitis pigmentosa	Autosomal recessive	14
+267	RGR	888/762	Retinitis pigmentosa	Autosomal recessive	10
+268	RHO	1047	Retinitis pigmentosa	Autosomal recessive	3
+269	RLBP1	954	Retinitis pigmentosa	Autosomal recessive	15
+270	RP1	6471	Retinitis pigmentosa	Autosomal recessive	8
+271	RP1L1	7203	Retinitis pigmentosa	Autosomal recessive	8
+272	RPE65	1602	Retinitis pigmentosa	Autosomal recessive	1
+273	SAG	1218	Retinitis pigmentosa	Autosomal recessive	2
+274	SLC7A14	2316	Retinitis pigmentosa	Autosomal recessive	3
+275	SPATA7	1800/1704	Retinitis pigmentosa	Autosomal recessive	14
+276	TTC8	1548/1518/1428/1596/954	Retinitis pigmentosa	Autosomal recessive	14
+277	TULP1	1629/1470	Retinitis pigmentosa	Autosomal recessive	6
+278	USH2A	4641/15609	Retinitis pigmentosa	Autosomal recessive	1
+279	ZNF408	2163	Retinitis pigmentosa	Autosomal recessive	11
+280	ZNF513	1626/1440	Retinitis pigmentosa	Autosomal recessive	2
+281	ABCC6	4512/300	Syndromic/systemic diseases with retinopathy	Autosomal recessive	16
+282	ABHD12	1197/1215	Syndromic/systemic diseases with retinopathy	Autosomal recessive	20
+283	ACBD5	1578/1473/1251/1572/1251	Syndromic/systemic diseases with retinopathy	Autosomal recessive	10
+284	ADAMTS18	3666	Syndromic/systemic diseases with retinopathy	Autosomal recessive	16
+285	ADIPOR1	1128	Syndromic/systemic diseases with retinopathy	Autosomal recessive	1
+286	AHI1	3591/3162	Syndromic/systemic diseases with retinopathy	Autosomal recessive	6
+287	ALMS1	12507	Syndromic/systemic diseases with retinopathy	Autosomal recessive	2
+288	CC2D2A	4863/369/336	Syndromic/systemic diseases with retinopathy	Autosomal recessive	4
+289	CEP164	4383	Syndromic/systemic diseases with retinopathy	Autosomal recessive	11
+290	CEP290	7440	Syndromic/systemic diseases with retinopathy	Autosomal recessive	12
+291	CLN3	1317/1245/1083/1155	Syndromic/systemic diseases with retinopathy	Autosomal recessive	16
+292	COL9A1	2766/2037	Syndromic/systemic diseases with retinopathy	Autosomal recessive	6
+293	CSPP1	3666/2631	Syndromic/systemic diseases with retinopathy	Autosomal recessive	8
+294	ELOVL4	945	Syndromic/systemic diseases with retinopathy	Autosomal recessive	6
+295	EXOSC2	882/804/792	Syndromic/systemic diseases with retinopathy	Autosomal recessive	9
+296	FLVCR1	1668	Syndromic/systemic diseases with retinopathy	Autosomal recessive	1
+297	GNPTG	918	Syndromic/systemic diseases with retinopathy	Autosomal recessive	16
+298	HARS	1317/1245/1083/1155/1350/1308/1188	Syndromic/systemic diseases with retinopathy	Autosomal recessive	5
+299	HGSNAT	1908	Syndromic/systemic diseases with retinopathy	Autosomal recessive	8
+300	HMX1	1047/573	Syndromic/systemic diseases with retinopathy	Autosomal recessive	4
+301	IFT140	4389	Syndromic/systemic diseases with retinopathy	Autosomal recessive	16
+302	INPP5E	1935	Syndromic/systemic diseases with retinopathy	Autosomal recessive	9
+303	INVS	3198	Syndromic/systemic diseases with retinopathy	Autosomal recessive	9
+304	IQCB1	1797/1398	Syndromic/systemic diseases with retinopathy	Autosomal recessive	3
+305	KCNJ13	1083/285	Syndromic/systemic diseases with retinopathy	Autosomal recessive	2
+306	LAMA1	9228	Syndromic/systemic diseases with retinopathy	Autosomal recessive	18
+307	LRP5	4848	Syndromic/systemic diseases with retinopathy	Autosomal recessive	11
+308	MKS1	1680/1650	Syndromic/systemic diseases with retinopathy	Autosomal recessive	17
+309	MTTP	2685/2766	Syndromic/systemic diseases with retinopathy	Autosomal recessive	4
+310	NPHP1	2202/2199/2034/1845	Syndromic/systemic diseases with retinopathy	Autosomal recessive	2
+311	NPHP3	3993	Syndromic/systemic diseases with retinopathy	Autosomal recessive	3
+312	NPHP4	4281	Syndromic/systemic diseases with retinopathy	Autosomal recessive	1
+313	OPA3	543/540	Syndromic/systemic diseases with retinopathy	Autosomal recessive	19
+314	PANK2	1713/840	Syndromic/systemic diseases with retinopathy	Autosomal recessive	20
+315	PCYT1A	1104	Syndromic/systemic diseases with retinopathy	Autosomal recessive	3
+316	PEX1	3852/3681	Syndromic/systemic diseases with retinopathy	Autosomal recessive	7
+317	PEX2	918	Syndromic/systemic diseases with retinopathy	Autosomal recessive	8
+318	PEX7	972	Syndromic/systemic diseases with retinopathy	Autosomal recessive	6
+319	PHYH	1017/717	Syndromic/systemic diseases with retinopathy	Autosomal recessive	10
+320	PLK4	2913/2817/2790	Syndromic/systemic diseases with retinopathy	Autosomal recessive	4
+321	PNPLA6	4128/3984/3903/4098	Syndromic/systemic diseases with retinopathy	Autosomal recessive	19
+322	POC1B	1437/1311	Syndromic/systemic diseases with retinopathy	Autosomal recessive	12
+323	PRPS1	957/345	Syndromic/systemic diseases with retinopathy	Autosomal recessive	X
+324	RDH11	957/747	Syndromic/systemic diseases with retinopathy	Autosomal recessive	14
+325	RPGRIP1L	3948/3708/3810	Syndromic/systemic diseases with retinopathy	Autosomal recessive	16
+326	SDCCAG8	2142	Syndromic/systemic diseases with retinopathy	Autosomal recessive	1
+327	SLC25A46	1257/1014	Syndromic/systemic diseases with retinopathy	Autosomal recessive	5
+328	TMEM237	1227/1203	Syndromic/systemic diseases with retinopathy	Autosomal recessive	2
+329	TRNT1	1305/1245	Syndromic/systemic diseases with retinopathy	Autosomal recessive	3
+330	TTPA	837	Syndromic/systemic diseases with retinopathy	Autosomal recessive	8
+331	TUB	1686/1521	Syndromic/systemic diseases with retinopathy	Autosomal recessive	11
+332	TUBGCP4	2004/2001	Syndromic/systemic diseases with retinopathy	Autosomal recessive	15
+333	TUBGCP6	5460	Syndromic/systemic diseases with retinopathy	Autosomal recessive	22
+334	WDPCP	1764/2241	Syndromic/systemic diseases with retinopathy	Autosomal recessive	2
+335	WDR19	4029	Syndromic/systemic diseases with retinopathy	Autosomal recessive	4
+336	WFS1	2673	Syndromic/systemic diseases with retinopathy	Autosomal recessive	4
+337	ZNF423	3855/3675	Syndromic/systemic diseases with retinopathy	Autosomal recessive	16
+338	ABHD12	1197/1215	Usher syndrome	Autosomal recessive	20
+339	ADGRV1	18921	Usher syndrome	Autosomal recessive	5
+340	CDH23	3345/3240	Usher syndrome	Autosomal recessive	10
+341	CEP250	7329	Usher syndrome	Autosomal recessive	20
+342	CIB2	564/435/417	Usher syndrome	Autosomal recessive	15
+343	CLRN1	699/363/738	Usher syndrome	Autosomal recessive	3
+344	DFNB31	2724/1575	Usher syndrome	Autosomal recessive	9
+345	HARS	1317/1245/1083/1155/1350/1308/1188	Usher syndrome	Autosomal recessive	5
+346	MYO7A	6648/6528/3537	Usher syndrome	Autosomal recessive	11
+347	PCDH15	5889/5874/5868/5661/5859/5779/5373/4620/5049/5034	Usher syndrome	Autosomal recessive	10
+348	USH1C	1659/1602/2700	Usher syndrome	Autosomal recessive	11
+349	USH1G	1386	Usher syndrome	Autosomal recessive	17
+350	USH2A	4641/15609	Usher syndrome	Autosomal recessive	1
+351	BEST1	1758/1815	Other retinopathy	Autosomal recessive	11
+352	C12orf65	501	Other retinopathy	Autosomal recessive	12
+353	CDH3	2490	Other retinopathy	Autosomal recessive	16
+354	CNGA3	2085/2031	Other retinopathy	Autosomal recessive	2
+355	CNGB3	2430	Other retinopathy	Autosomal recessive	8
+356	CNNM4	2328	Other retinopathy	Autosomal recessive	2
+357	CRB1	4221/3885/4149/2613	Other retinopathy	Autosomal recessive	1
+358	CYP4V2	1578	Other retinopathy	Autosomal recessive	4
+359	LRP5	4848	Other retinopathy	Autosomal recessive	11
+360	MFRP	1740	Other retinopathy	Autosomal recessive	11
+361	MVK	1191/1035	Other retinopathy	Autosomal recessive	12
+362	NBAS	7116	Other retinopathy	Autosomal recessive	2
+363	NR2E3	1104/1233	Other retinopathy	Autosomal recessive	15
+364	OAT	1320/906	Other retinopathy	Autosomal recessive	10
+365	PLA2G5	417	Other retinopathy	Autosomal recessive	1
+366	PROM1	2598/2571/2505/2529	Other retinopathy	Autosomal recessive	4
+367	RBP4	606	Other retinopathy	Autosomal recessive	10
+368	RGS9	2025/2016	Other retinopathy	Autosomal recessive	17
+369	RGS9BP	708	Other retinopathy	Autosomal recessive	19
+370	RLBP1	954	Other retinopathy	Autosomal recessive	15
+371	ZNF408	2163	Other retinopathy	Autosomal recessive	11
+372	GRK1	2100	Oguchi	Autosomal recessive	13
+373	SAG	1218	Oguchi	Autosomal recessive	2
+374	CACNA1F	5934/5901	Cone or cone-rod dystrophy	X-linked	X
+375	RPGR	2448/3459	Cone or cone-rod dystrophy	X-linked	X
+376	COD2*		Cone or cone-rod dystrophy	X-linked	X
+377	CACNA1F	5934/5901	Congenital stationary night blindness	X-linked	X
+378	NYX	1446	Congenital stationary night blindness	X-linked	X
+379	RPGR	2448/3459	Macular degeneration	X-linked	X
+380	TIMM8A	294	Optic atrophy	X-linked	X
+381	OFD1	3039	Retinitis pigmentosa	X-linked	X
+382	RP2	1053	Retinitis pigmentosa	X-linked	X
+383	RPGR	2448/3459	Retinitis pigmentosa	X-linked	X
+384	OFD1	3039	Syndromic/systemic diseases with retinopathy	X-linked	X
+385	TIMM8A	294	Syndromic/systemic diseases with retinopathy	X-linked	X
+386	CACNA1F	5934/5901	Other retinopathy	X-linked	X
+387	CHM	1962/333	Other retinopathy	X-linked	X
+388	DMD	11058/11046….	Other retinopathy	X-linked	X
+389	NDP	402	Other retinopathy	X-linked	X
+390	OPN1LW	1095	Other retinopathy	X-linked	X
+391	OPN1MW	1095	Other retinopathy	X-linked	X
+392	PGK1	1254	Other retinopathy	X-linked	X
+393	RS1	675	Other retinopathy	X-linked	X
+394	LHON	957	Other retinopathy	Mitochondrial	M
+395	MT-ATP6	681	Other retinopathy	Mitochondrial	M
+396	MT-TH		Other retinopathy	Mitochondrial	M
+397	MT-TL1		Other retinopathy	Mitochondrial	M
+398	MT-TP		Other retinopathy	Mitochondrial	M
+399	MT-TS2		Other retinopathy	Mitochondrial	M
+400	KSS		Other retinopathy	Mitochondrial	

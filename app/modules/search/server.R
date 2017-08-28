@@ -16,21 +16,16 @@ searchModule <- function(input, output, session) {
   
   # Data --------------------------------------------------------------------
 
-  d_genes <- reactive({
-    data_frame(
-      gene = paste("G-", LETTERS, sep = ""),
-      disease = paste("Eye syndrome", LETTERS),
-      chromosome = 1:26
-    )
-  })
-  
+  d_genes <- reactive({read_rds("data/eye-gene-data.rds")})
+
   d_genes_filtered <- reactive({
     req(input$search_term)
     
     d_genes() %>% 
       filter(
-        str_detect(gene, input$search_term) |
-        str_detect(disease, input$search_term)
+        str_detect(tolower(`Gene Symbol`), tolower(input$search_term)) |
+        str_detect(tolower(Phenotypes), tolower(input$search_term)) |
+        str_detect(tolower(`Inheritance Pattern`), tolower(input$search_term))
       )
   })
 
@@ -39,10 +34,11 @@ searchModule <- function(input, output, session) {
   
   output$results_table <- renderDataTable({
     req(input$search_term)
-    
+
     validate(
       need(nrow(d_genes_filtered()) > 0, "No results")
     )
+    
     
     # specify data table options
     dt_options <- list(
@@ -50,10 +46,11 @@ searchModule <- function(input, output, session) {
       lengthChange = FALSE,
       searching = FALSE,
       pagingType = "simple_numbers",
-      autoWidth = TRUE)
+      autoWidth = FALSE
+    )
     
     d_genes_filtered() %>% 
-      select(gene, disease) %>% 
+      select(`Gene Symbol`, Phenotypes, `Inheritance Pattern`) %>% 
       datatable(dt_options, rownames = FALSE, escape = FALSE, selection = 'single')
   })
   
@@ -66,13 +63,15 @@ searchModule <- function(input, output, session) {
     record <- d_genes_filtered()[input$results_table_rows_selected,]
 
     tagList(
-      h3("Record Details"),
-      div("Gene: ", record$gene),
-      div("Disease: ", record$disease),
-      div("Chromosome: ", record$chromosome)
-      
+      div(tags$strong("Record Details")),
+      tags$table(
+        width = "100%",
+        tags$tr(tags$td("Gene: "), tags$td(record$`Gene Symbol`)),
+        tags$tr(tags$td("Gene Size: "), tags$td(record$`Gene Size`)),
+        tags$tr(tags$td("Phenotype: "), tags$td(record$Phenotypes)),
+        tags$tr(tags$td("Inheritance Pattern: "), tags$td(record$`Inheritance Pattern`)),
+        tags$tr(tags$td("Chromosome: "), tags$td(record$Chromosome))
+      )
     )
   })
 }
-
-
